@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoyZry98
-- 👀 I’m interested in computer vision, federated learning
-- 🌱 I’m currently learning in CUHKSZ and will go to Nanjing University to pursue PhD.
+- 👀 I’m interested in computer vision, federated learning.
+- 🌱 I’m currently a joint Ph.D. student from Peking University and Nanjing University.
 - 💞️ I’m looking to collaborate on autonomous driving and its domain adaptation.
 - 📫 How to reach me? rongyuzhang@link.cuhk.edu.cn
 
